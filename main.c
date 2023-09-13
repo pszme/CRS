@@ -15,6 +15,12 @@
  *     - Car rental booking and tracking
  *     - Rental history and billing
  *
+ * The default username for administrator
+ * username: admin
+ * password: admin
+ *
+ * (Check line 49 & 50 for changing username and password)
+ *
  * Dependencies:
  *     It only requires gcc (compiler)
  *
